@@ -1,0 +1,13 @@
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\bin\Debug\Demo_var_6.exe.config
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\bin\Debug\Demo_var_6.exe
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\bin\Debug\Demo_var_6.pdb
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.csproj.AssemblyReference.cache
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.Properties.Resources.resources
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.csproj.GenerateResource.cache
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.csproj.CoreCompileInputs.cache
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.exe
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.pdb
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.AuthorizationWindow.resources
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.Forms.ProductWindow.resources
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.Forms.AddWindow.resources
+C:\Users\kigyi\Desktop\Домашка\Globa\Глоба\Лаба3-6\Demo_var_6\Demo_var_6\obj\Debug\Demo_var_6.Forms.EditWindow.resources
